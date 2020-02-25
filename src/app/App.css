@@ -1,0 +1,12 @@
+.s-alert-box {
+    min-width: 250px;
+}
+
+.s-alert-close::before, .s-alert-close::after {
+    width: 2px;
+}
+.app-body{
+    margin-right: 250px;
+    padding-top: 65px;
+   /* margin-top: 65px;*/
+}
